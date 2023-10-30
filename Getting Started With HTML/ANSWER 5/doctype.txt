@@ -1,0 +1,9 @@
+HTML DOCTYPE Declaration:->
+
+The HTML document type declaration or Doctype is an instruction used by web browsers to fetch what version of HTML the website is written in. It helps browsers in understanding how the document should be interpreted thus eases the rendering process. It is neither an element nor a tag. The doctype should be placed on the top of the document. It must not contain any content and does not need a closing tag.
+
+Technically <!DOCTYPE > is not a tag/element, it just an instruction to the browser about the document type. It is a null element which does not contain the closing tag, and must not include any content within it.
+
+Actually, there are many type of HTML e.g. HTML 4.01 Strict, HTML 4.01 Transitional, HTML 4.01 Frameset, XHTML 1.0 Strict, XHTML 1.0 Transitional, XHTML 1.0 Frameset, XHTML 1.1 etc.
+
+The <!DOCTYPE> declaration refers Document Type Declaration (DTD) in HTML 4.01; because HTML 4.01 was based on SGML. But HTML 5 is not SGML based language.
